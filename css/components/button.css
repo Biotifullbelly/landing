@@ -1,0 +1,16 @@
+.btn-orange {
+	background-color: #ff8a5c;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+
+}
+
+.btn-orange:hover {
+	background-color: #132743;
+	color: white;
+}
+
+.submit {
+	padding: 0px 20px;
+}
